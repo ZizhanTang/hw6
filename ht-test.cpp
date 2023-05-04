@@ -7,8 +7,10 @@
 #include <sstream>
 #include <functional>
 using namespace std;
+
 int main()
 {
+    /*
     DoubleHashProber<std::string, MyStringHash > dh;
     HashTable<
         std::string, 
@@ -45,4 +47,5 @@ int main()
     ht.insert({"hi7",17});
     cout << "size: " << ht.size() << endl;
     return 0;
+    */
 }
